@@ -25,4 +25,9 @@ items:
     target: "/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/"
     kind: page
     children: []
+  - title: 'Axe 2 : Promouvoir l''ouverture des données et la diffusion des logiciels
+      libres'
+    target: "/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/"
+    kind: page
+    children: []
 
