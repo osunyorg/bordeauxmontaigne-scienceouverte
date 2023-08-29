@@ -20,5 +20,9 @@ items:
 - title: Axes
   target: "/axes/"
   kind: page
-  children: []
+  children:
+  - title: 'Axe 1 : Soutenir et développer une édition scientifique ouverte'
+    target: "/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/"
+    kind: page
+    children: []
 
