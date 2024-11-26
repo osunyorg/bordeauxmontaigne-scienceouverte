@@ -5,14 +5,17 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 - title: Axes
   target: "/axes/"
   kind: page
@@ -21,9 +24,12 @@ items:
     target: "/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/"
     kind: page
     children: []
+    file: content/fr/pages/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/_index.html
   - title: 'Axe 2 : Promouvoir l''ouverture des données et la diffusion des logiciels
       libres'
     target: "/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/"
     kind: page
     children: []
+    file: content/fr/pages/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/_index.html
+  file: content/fr/pages/axes/_index.html
 
