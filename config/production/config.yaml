@@ -2,6 +2,11 @@
 
 baseURL: https://bordeauxmontaigne-scienceouverte.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: c903cf9f-d931-464f-812a-e43348cc3d29
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
