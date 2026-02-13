@@ -2,46 +2,60 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Axes
+  slug: axes
   target: "/axes/"
   kind: page
   new_tab: false
   children:
   - title: 'Axe 1 : Soutenir et développer une édition scientifique ouverte'
+    slug: axe-1-soutenir-et-developper-une-edition-scientifique-ouverte
     target: "/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte"
     file: content/fr/pages/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/_index.html
   - title: 'Axe 2 : Promouvoir l''ouverture des données et la diffusion des logiciels
       libres'
+    slug: axe-2-promouvoir-l-ouverture-des-donnees-et-la-diffusion-des-logiciels-libres
     target: "/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres"
     file: content/fr/pages/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/_index.html
+  descendants_targets:
+  - "/axes/axe-1-soutenir-et-developper-une-edition-scientifique-ouverte/"
+  - "/axes/axe-2-promouvoir-louverture-des-donnees-et-la-diffusion-des-logiciels-libres/"
   path: "/pages/axes"
   file: content/fr/pages/axes/_index.html
 
